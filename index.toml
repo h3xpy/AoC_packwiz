@@ -2500,7 +2500,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "18b3bb82c19b94650320ad735ed4c033c9831e42ebf5abebca58d12f638807a8"
+hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
 
 [[files]]
