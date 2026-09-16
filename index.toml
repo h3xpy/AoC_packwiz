@@ -5,6 +5,10 @@ file = ".curseclient"
 hash = "9a7a000b06b3e466cae83c7a4462e844cf12af4edb00b5d3a350a661d90b0eb5"
 
 [[files]]
+file = ".packwizignore.txt"
+hash = "186127badb253e74685ec6a6d6fe6b1d5c35095aa852d653553570d960198521"
+
+[[files]]
 file = "all-of-create-data.pw.toml"
 hash = "3d6ebd1a0564b3a57bc5110818a6513bbc797ae69c52d2baab83d1b131c9903f"
 metafile = true
@@ -2952,10 +2956,6 @@ metafile = true
 file = "mods/hypertubes.pw.toml"
 hash = "3e7678d56426a61b7f67a2f6e8e50dc1d5c3b27a6a82a772990b3eec3ca8e150"
 metafile = true
-
-[[files]]
-file = "mods/i_architecture-0.1.1b.jar"
-hash = "295edfb0f3dec36bc294debe377425a9ad21f7ce98305ca9f7b03d4b0605a544"
 
 [[files]]
 file = "mods/iceberg.pw.toml"
