@@ -2958,6 +2958,10 @@ hash = "3e7678d56426a61b7f67a2f6e8e50dc1d5c3b27a6a82a772990b3eec3ca8e150"
 metafile = true
 
 [[files]]
+file = "mods/i_architecture-0.1.1b.jar"
+hash = "295edfb0f3dec36bc294debe377425a9ad21f7ce98305ca9f7b03d4b0605a544"
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "dbc34ada7af1fe08105d440312f544dc1fc0ef2032ef8bc0adda9f0e9c4fb067"
 metafile = true
