@@ -2383,6 +2383,11 @@ hash = "cf914684c4151076b726116a66f7bc81a6116655551bcce70a9e64e34e5aa308"
 metafile = true
 
 [[files]]
+file = "mods/c2me.pw.toml"
+hash = "8a0bea28f988792ff9093667d301f33015fb3cdd6bffb4648c842f0b246caf80"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
@@ -2440,6 +2445,11 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "efa57538ae846f2796a1dff865aae8bd979cb0526908e48b217ec355ca1f603f"
 metafile = true
 
 [[files]]
@@ -2823,6 +2833,11 @@ hash = "c4cb0e99771912399791487f68c98ae8546642857bc8ec0c6683355df6631cf1"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
+metafile = true
+
+[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "d2abefd9997328f0fdc8b36f9386438bee89889f58e878f290e9a9c8db8b1b5c"
 metafile = true
@@ -3117,6 +3132,11 @@ hash = "df7ba5fcc9f4e584e3dc1e0f17da8a0b18dc1e7925167557220defb43cc08718"
 metafile = true
 
 [[files]]
+file = "mods/noisiumforked.pw.toml"
+hash = "9c93eb7b597436c3f71fd4c19121633146776c50b7c9b3b06c7dc9441d722da9"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
 metafile = true
@@ -3194,6 +3214,11 @@ metafile = true
 [[files]]
 file = "mods/redirected.pw.toml"
 hash = "a8e09044fb84c6b63782d68be84c899fbecebf7b70ee3f36a83bcff9e475d411"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "9a94f2e57b081963d11a33a9be6435046bfb8720defac9d2cced4d37b3db7299"
 metafile = true
 
 [[files]]
