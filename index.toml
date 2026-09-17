@@ -2883,6 +2883,10 @@ hash = "b5f93c7de7f0b296533f51c53536c5258a8896c4e30f0fc1bdc3c51fa3b60cb5"
 metafile = true
 
 [[files]]
+file = "mods/desktop.ini"
+hash = "de9859ba3dbcc0a7465da2050e3b4bc983c12bdf0a69a10b07547b1322df8d4a"
+
+[[files]]
 file = "mods/despawn-tweaks.pw.toml"
 hash = "c4cb0e99771912399791487f68c98ae8546642857bc8ec0c6683355df6631cf1"
 metafile = true
@@ -3147,9 +3151,8 @@ hash = "cc39df3b09679a88cd5a8f2f45aff596f4c30228bb2c0c233f3ccb57a1de2d03"
 metafile = true
 
 [[files]]
-file = "mods/linear-bearing.pw.toml"
-hash = "e92248ff7e47d94175ee315550946858967e9f1076653468a1d10a6aa53a4d82"
-metafile = true
+file = "mods/linearbearing-1.2.6.jar"
+hash = "0530c06045c17809a753869250ad1e426c56a531f5f243b771254bd4ad84e92f"
 
 [[files]]
 file = "mods/lithium.pw.toml"
