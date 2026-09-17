@@ -2598,6 +2598,11 @@ hash = "8f067d4847ec4f5fd581c6323f8a069f0d273422dba347f0cfcb8b2f62a99238"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "900880f684238d2489dc6859c354abc7b145c617dbdac42e1873604632b9c831"
+metafile = true
+
+[[files]]
 file = "mods/create-deep-dark.pw.toml"
 hash = "fa0490af88712bad892ab9a1ee49f5cc402654c1571773dbdb9013ab54b496b5"
 metafile = true
@@ -2648,6 +2653,11 @@ hash = "5e9ad200492c86a93fbb027518c352876e9b3eb362cbbeab63ae735ab6d96ee6"
 metafile = true
 
 [[files]]
+file = "mods/create-extra-gauges.pw.toml"
+hash = "80303b4d6acd243e1796b5debec43f53ee8b84b2bc84c4afe2af678680fd9cfe"
+metafile = true
+
+[[files]]
 file = "mods/create-factory.pw.toml"
 hash = "85ac7b139b916412f6d95b3686d144871a363774a8d1159b9e527d23ad8a8f72"
 metafile = true
@@ -2680,6 +2690,11 @@ metafile = true
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "cd39142a4bbf918c58f8feae2ed0ffc2af6515c395f75920172b6039c4c7eb20"
+metafile = true
+
+[[files]]
+file = "mods/create-linear-bearing.pw.toml"
+hash = "386bb916f6ad29a4ccae107ae211ae8af79d589bd9b8c4d3876d997b0f077220"
 metafile = true
 
 [[files]]
@@ -2740,6 +2755,11 @@ metafile = true
 [[files]]
 file = "mods/create-petrochem.pw.toml"
 hash = "dc9680cc5e4444efb3c40dff62d3f71d5e96f31d568fa3ebe1e3f36109c324c8"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "3872eeb409b1a2b5acdf5a270825a9e703e240ee8230a08b820a21c19f14c27e"
 metafile = true
 
 [[files]]
@@ -2863,6 +2883,11 @@ hash = "1dc3ed614d1be444f0ed687ab40168437cef77f25a9ebfbdd2ac250de6da3d87"
 metafile = true
 
 [[files]]
+file = "mods/deployer.pw.toml"
+hash = "b5f93c7de7f0b296533f51c53536c5258a8896c4e30f0fc1bdc3c51fa3b60cb5"
+metafile = true
+
+[[files]]
 file = "mods/despawn-tweaks.pw.toml"
 hash = "c4cb0e99771912399791487f68c98ae8546642857bc8ec0c6683355df6631cf1"
 metafile = true
@@ -2920,6 +2945,16 @@ metafile = true
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "1010c34ac2177d15b77d843b7e514d152df73d5f0c05b59247eeaa525b23698d"
+metafile = true
+
+[[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "b028ea56ceb42800058d585ae45c5acc8a465034a1cde8f0daa14802cb313cc0"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "b4b08d948a7cb2725e0703b54d2534a432a8d4a6dc97b4f49d04c164c6bc7515"
 metafile = true
 
 [[files]]
@@ -3042,6 +3077,11 @@ hash = "ea2d5878a162c002a3acb7b89332f211a150ada2186790fbcc3d56640146cb7e"
 metafile = true
 
 [[files]]
+file = "mods/interiors.pw.toml"
+hash = "34fe94ba3007bf74e8e25c50bcba24b69671bf8e5258d117a0550450ea992269"
+metafile = true
+
+[[files]]
 file = "mods/iris-search.pw.toml"
 hash = "5f410a954813a85521dbf728d2d19457f54d37568fba2fad99239d15a9af13c8"
 metafile = true
@@ -3107,6 +3147,11 @@ hash = "107cd5a7573680cefaeeaba34de0c5ebfea41678994d47550d7a8f3cd99ded85"
 metafile = true
 
 [[files]]
+file = "mods/lever-drugster.pw.toml"
+hash = "cc39df3b09679a88cd5a8f2f45aff596f4c30228bb2c0c233f3ccb57a1de2d03"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "fb6171c8f7ff0d83513b3f75ee5d7a98659559c427d79fb69eb0219639af8a37"
 metafile = true
@@ -3124,6 +3169,11 @@ metafile = true
 [[files]]
 file = "mods/loot-integrations.pw.toml"
 hash = "543b8a8ff5796648146f3102dea686e806f793052d329d0fa3efee8194d4df52"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "e31aebea2649cad495197a6736570f59b286d75c7a08c06a8a33fd84abd94817"
 metafile = true
 
 [[files]]
@@ -3217,6 +3267,11 @@ hash = "7e3027c119bbd5e6af324be80fb8b7328c091d0b63955e26952e71acc329d8f1"
 metafile = true
 
 [[files]]
+file = "mods/potentials.pw.toml"
+hash = "b484f15d3353a7d4b3baf14b9da340c922299aead74f7f052dd886f49489d7fd"
+metafile = true
+
+[[files]]
 file = "mods/power-grid.pw.toml"
 hash = "d8a997c508417eff07068e7ee5e5e501a6ae6e44fb4592829d077fe4a3b73ec3"
 metafile = true
@@ -3297,6 +3352,11 @@ hash = "61b5546ef4f36242f32fbe9d3c5fc120a5f7c183a41b281c1113829354493013"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "03ad55d6aa8f143fced561ef90d2cf075e08db92046f75f4281accd6c7cfb201"
+metafile = true
+
+[[files]]
 file = "mods/sinytra-connector.pw.toml"
 hash = "161d6ad57ed27debb9107d48b0a8de76bc60e41e9d41650efe4bfa080d86e2e8"
 metafile = true
@@ -3349,6 +3409,11 @@ metafile = true
 [[files]]
 file = "mods/spartan-weaponry-unofficial.pw.toml"
 hash = "b21fefa47d75eb611495b1496ab415c3c0b34f1c29058fafd12ab73d61dcae06"
+metafile = true
+
+[[files]]
+file = "mods/stellaris.pw.toml"
+hash = "75f16f9fee0d3e1abb00427e25c94d4492fd51b253340421160bc02688b3bf29"
 metafile = true
 
 [[files]]
