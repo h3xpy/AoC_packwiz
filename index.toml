@@ -2693,11 +2693,6 @@ hash = "cd39142a4bbf918c58f8feae2ed0ffc2af6515c395f75920172b6039c4c7eb20"
 metafile = true
 
 [[files]]
-file = "mods/create-linear-bearing.pw.toml"
-hash = "386bb916f6ad29a4ccae107ae211ae8af79d589bd9b8c4d3876d997b0f077220"
-metafile = true
-
-[[files]]
 file = "mods/create-mechanical-botany.pw.toml"
 hash = "2f6978d8df311283f4edcce58971d13e9f4c69361a9399509e403ce75c5ea991"
 metafile = true
@@ -3149,6 +3144,11 @@ metafile = true
 [[files]]
 file = "mods/lever-drugster.pw.toml"
 hash = "cc39df3b09679a88cd5a8f2f45aff596f4c30228bb2c0c233f3ccb57a1de2d03"
+metafile = true
+
+[[files]]
+file = "mods/linear-bearing.pw.toml"
+hash = "e92248ff7e47d94175ee315550946858967e9f1076653468a1d10a6aa53a4d82"
 metafile = true
 
 [[files]]
