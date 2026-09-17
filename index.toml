@@ -2508,6 +2508,11 @@ hash = "7c5aa4687ff34e1ffe62e0e2570e38d40dbedc8f0d45fadcb8f9c3252f9cf677"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-transmission-linkage.pw.toml"
+hash = "26f50a0bc609b96aa1e2ad85cea1e17ba622580947fe75f1967b52b09185f2cb"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-x-curios-api-compat.pw.toml"
 hash = "8c8f015bcce51748c7d9b8c9e0a8b6cbe2a55c5afc5279d64d25930bb5b11269"
 metafile = true
@@ -2533,6 +2538,11 @@ hash = "6963af5a5042eeca534ba83209bbd006f46b9536059f19349d940f2ce7d2ecb0"
 metafile = true
 
 [[files]]
+file = "mods/create-bits-n-tracks.pw.toml"
+hash = "a1aa489c1ccb34ab3ccfc0c4146574dd8d94fca58d68f5b84c2cdf2dd6c9732d"
+metafile = true
+
+[[files]]
 file = "mods/create-blaze-burner-fuels.pw.toml"
 hash = "5f725054e7f4380ffd360f620d8c5da58aeef592e989061d6d39ed651afaa8f4"
 metafile = true
@@ -2548,6 +2558,11 @@ hash = "dd621a9c036f46c5505bb4973ba146ffce576e4a465f755da63dc607f2dcb72a"
 metafile = true
 
 [[files]]
+file = "mods/create-cardan-shafts.pw.toml"
+hash = "b6885c1deebb96c592047334c24851f35c9c3308eb2b58babd091fee6d06e8aa"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "ee18c9b942d0f7902f387ebd144f998f564975b8258e05eb589ecea0a3f5dc17"
 metafile = true
@@ -2555,6 +2570,11 @@ metafile = true
 [[files]]
 file = "mods/create-chocolate-fountain.pw.toml"
 hash = "66a52b090659399b5673f299d25b6bbc408d301e78ffee7dcf37fe3f61040c82"
+metafile = true
+
+[[files]]
+file = "mods/create-compact-flap.pw.toml"
+hash = "fb073ef2c714a883bb90b6c5a1bdcbeae5bf52a4f2e16c513f978de36a45769f"
 metafile = true
 
 [[files]]
@@ -2580,6 +2600,11 @@ metafile = true
 [[files]]
 file = "mods/create-deep-dark.pw.toml"
 hash = "fa0490af88712bad892ab9a1ee49f5cc402654c1571773dbdb9013ab54b496b5"
+metafile = true
+
+[[files]]
+file = "mods/create-deep-seas.pw.toml"
+hash = "96b3a6fcba1cbf8d976211fb2d13f934e0586ed6b80f0f4bed1a4b4ffe9a2a70"
 metafile = true
 
 [[files]]
@@ -2785,6 +2810,11 @@ metafile = true
 [[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "ace252b6b7f35f95dd486c4c38125be1ab4e5dd0edc30c7c665411f739c971f7"
+metafile = true
+
+[[files]]
+file = "mods/create-ultimate-factory.pw.toml"
+hash = "b8761149eda05aa09fa90b3a8e0cf797faba43c08e42557cafcd55baa2c20cb3"
 metafile = true
 
 [[files]]
@@ -3314,6 +3344,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "2f0c858e1e303aba06718a27c1628134418d53825bd46e3c44cabe1b442636c7"
+metafile = true
+
+[[files]]
+file = "mods/spartan-weaponry-unofficial.pw.toml"
+hash = "b21fefa47d75eb611495b1496ab415c3c0b34f1c29058fafd12ab73d61dcae06"
 metafile = true
 
 [[files]]
