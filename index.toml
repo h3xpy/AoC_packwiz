@@ -2333,11 +2333,6 @@ hash = "0a52f6f8c287ca852cce533742ae800dac58a816966e1a491eec68c9e1a63305"
 metafile = true
 
 [[files]]
-file = "mods/backpacked.pw.toml"
-hash = "e0a479fef621fd91d0a022358046eb6af947fd5d4191b1286504f6b958605686"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie-reloaded.pw.toml"
 hash = "fa68bc1eb6c832087e11a130e589cabeb1a891ea94db8246abd245745556b68d"
 metafile = true
@@ -2503,6 +2498,11 @@ hash = "d61f777d6fd598fbdfcc07dfeb347c4a57f1dbc3081f77bb46ab09cb58f7caf6"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-gyroscope-stabilizers.pw.toml"
+hash = "845db39ab8c05bcd2f047d7bd810ea0d27f027ebbaf7f8db872126e8bc89ee2d"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-throwable-rope-connector.pw.toml"
 hash = "7c5aa4687ff34e1ffe62e0e2570e38d40dbedc8f0d45fadcb8f9c3252f9cf677"
 metafile = true
@@ -2555,6 +2555,11 @@ metafile = true
 [[files]]
 file = "mods/create-chocolate-fountain.pw.toml"
 hash = "66a52b090659399b5673f299d25b6bbc408d301e78ffee7dcf37fe3f61040c82"
+metafile = true
+
+[[files]]
+file = "mods/create-compact-gearbox-transmisson.pw.toml"
+hash = "292b507e49c06075d9ad977b263444842a84133c5808d364fca3308c5255d4e0"
 metafile = true
 
 [[files]]
@@ -2915,11 +2920,6 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "15219e64b45e53db93de94091172e6a4c5ae9a749710ce91a615c973a552c215"
-metafile = true
-
-[[files]]
-file = "mods/framework.pw.toml"
-hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
@@ -3307,6 +3307,16 @@ hash = "3ee552df830edc21983af39740f267599437cd98a4e37b071413a598716861a8"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "d089be7d1b39541c418ea6a6a4d3797eb5afcc68ad511dbd606de66d5397d59d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "2f0c858e1e303aba06718a27c1628134418d53825bd46e3c44cabe1b442636c7"
+metafile = true
+
+[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "dcbf8b45454dc87262ef3660d21e7fb73f035e3a65aa8fb6c1c711c63cec335d"
 metafile = true
@@ -3349,6 +3359,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "f28ceb27bc3ed0a9825de1f853d177b69495deab9128aa05694616e4504ddb52"
+metafile = true
+
+[[files]]
+file = "mods/vs-hose-connectors.pw.toml"
+hash = "c0baea5bb063b538875c25a66b6803f32560c353047d66ee1fdeb7ceddd7c9b5"
 metafile = true
 
 [[files]]
