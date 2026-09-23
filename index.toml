@@ -2582,11 +2582,6 @@ hash = "66a52b090659399b5673f299d25b6bbc408d301e78ffee7dcf37fe3f61040c82"
 metafile = true
 
 [[files]]
-file = "mods/create-coasters-simulated.pw.toml"
-hash = "792656064c1a91d6d5ec6add1e707c3c99b20668be099e836d6adff4703f43ae"
-metafile = true
-
-[[files]]
 file = "mods/create-compact-flap.pw.toml"
 hash = "fb073ef2c714a883bb90b6c5a1bdcbeae5bf52a4f2e16c513f978de36a45769f"
 metafile = true
@@ -2898,7 +2893,7 @@ metafile = true
 
 [[files]]
 file = "mods/desktop.ini"
-hash = "de9859ba3dbcc0a7465da2050e3b4bc983c12bdf0a69a10b07547b1322df8d4a"
+hash = "2c03f63bcc055192ee4074333db74b40613be186f6824b4cc0d262f2d9c4b601"
 
 [[files]]
 file = "mods/despawn-tweaks.pw.toml"
@@ -3377,6 +3372,10 @@ metafile = true
 file = "mods/simple-voice-chat.pw.toml"
 hash = "03ad55d6aa8f143fced561ef90d2cf075e08db92046f75f4281accd6c7cfb201"
 metafile = true
+
+[[files]]
+file = "mods/simulatedcoasters-0.1.5.jar"
+hash = "f80b4c3cdf9fa6188804967147761b0373e150a6eadbdc53626e5ac9700b2049"
 
 [[files]]
 file = "mods/sinytra-connector.pw.toml"
