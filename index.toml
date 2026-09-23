@@ -2353,8 +2353,8 @@ hash = "e3d12b69f218240aff7e92b97d5d47a08c154259adacd70352f4c05c3ede151d"
 metafile = true
 
 [[files]]
-file = "mods/bloodbound-1.0.13.jar"
-hash = "c4d1d459aa39e10129fd0e772781dbf2178b951dbb9cb8d868fb205507ebb98a"
+file = "mods/bloodbound-1.1.2.jar"
+hash = "31a5b05df7a07a303a2804d5e523741f2ddd4693746e194987f5b5c536c4fabd"
 
 [[files]]
 file = "mods/blueprint.pw.toml"
@@ -2579,6 +2579,11 @@ metafile = true
 [[files]]
 file = "mods/create-chocolate-fountain.pw.toml"
 hash = "66a52b090659399b5673f299d25b6bbc408d301e78ffee7dcf37fe3f61040c82"
+metafile = true
+
+[[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "792656064c1a91d6d5ec6add1e707c3c99b20668be099e836d6adff4703f43ae"
 metafile = true
 
 [[files]]
