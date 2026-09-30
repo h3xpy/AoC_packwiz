@@ -2353,8 +2353,8 @@ hash = "e3d12b69f218240aff7e92b97d5d47a08c154259adacd70352f4c05c3ede151d"
 metafile = true
 
 [[files]]
-file = "mods/bloodbound-1.1.3.jar"
-hash = "bf02a87dd4117b23c208eae4842e221f13f9ff5328ee26e7fc3bd00e895ffc59"
+file = "mods/bloodbound-1.1.5.jar"
+hash = "8bd6542b290ce549128652ed4db0160ec480b4014facf0bff253ddae2af08c58"
 
 [[files]]
 file = "mods/blueprint.pw.toml"
