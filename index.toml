@@ -3085,6 +3085,11 @@ hash = "b3763ccb97915ae2f42f32375cc8d1966070fe29bc88d70339a989dc67740160"
 metafile = true
 
 [[files]]
+file = "mods/improved-mobs.pw.toml"
+hash = "d5ae502f1f70b8fb8c495cc007b11d7585f5914bd3ef55af55cab1b8559bcfe2"
+metafile = true
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "7f6ae4d2dcca5f1380319e67e0a8d442ab4b653c1a2c4ecf2d21d7bd3609cf8e"
 metafile = true
@@ -3464,6 +3469,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "d8a69a6367d92895e093e003c436de43abb3292a3c676908a95d0c0db1d14830"
+metafile = true
+
+[[files]]
+file = "mods/tenshilib.pw.toml"
+hash = "8a78c4d50191dd24096c788ea20f1ebec472a02bad3967578e4d0532e0e729d1"
 metafile = true
 
 [[files]]
