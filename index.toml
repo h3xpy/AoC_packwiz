@@ -3051,6 +3051,10 @@ hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
 metafile = true
 
 [[files]]
+file = "mods/hidetrainmap-1.0.0.jar"
+hash = "9c0a2245a778c90bc76e4200d8a784c472457c6cb150f924a3b4868f6c2292bc"
+
+[[files]]
 file = "mods/hots-aerostuff.pw.toml"
 hash = "a7e9187482cf225fbdb3769e860989040d41508106c4672c49439ed4f0d94af1"
 metafile = true
