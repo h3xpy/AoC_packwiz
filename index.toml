@@ -2872,11 +2872,6 @@ hash = "929e96f62356daf2bc1634484f611336662992b14d907e29e7750c8e07a0db0a"
 metafile = true
 
 [[files]]
-file = "mods/create-xaeros-map.pw.toml"
-hash = "03533c22dffedd736309250a8fee2e1de8f57769f96a1d5bfd49fb8e7ebddd5b"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
