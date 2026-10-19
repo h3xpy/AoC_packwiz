@@ -2353,8 +2353,12 @@ hash = "e3d12b69f218240aff7e92b97d5d47a08c154259adacd70352f4c05c3ede151d"
 metafile = true
 
 [[files]]
-file = "mods/bloodbound-1.1.6.jar"
-hash = "603f4f46555481d35cd13e3577acc843b5e85c6d4e19fe24b094348542778929"
+file = "mods/bloodbound-1.1.7.jar"
+hash = "64999bb2cd723db86eea1d9a69647ee6294175bcaa0b2ada010eab06489c1023"
+
+[[files]]
+file = "mods/bloodcontracts-neoforge-1.21.1-1.0.0.jar"
+hash = "a212eab5f5b819dc64d3681dee0cda9e46a9002ba2137277f8d57987eb44af07"
 
 [[files]]
 file = "mods/blueprint.pw.toml"
@@ -2623,7 +2627,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deep-seas.pw.toml"
-hash = "62e1817374762eb094263cd6d098760832c28e3848293801f31f86ba248d2219"
+hash = "ed44304bfe05de9f40272227a25a93238d36ba5d0a636a0e58272cc2823614c0"
 metafile = true
 
 [[files]]
