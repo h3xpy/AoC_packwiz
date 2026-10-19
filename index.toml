@@ -2626,11 +2626,6 @@ hash = "fa0490af88712bad892ab9a1ee49f5cc402654c1571773dbdb9013ab54b496b5"
 metafile = true
 
 [[files]]
-file = "mods/create-deep-seas.pw.toml"
-hash = "4b981f4b33bfadc492520f99e1388ee98f952afbfb6b48e7f99aed7ff62cd3d9"
-metafile = true
-
-[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "e05bc0c3ee97da0dfcf9dabd3c3eaee0e90819091ead3f500ddc3b1caf77fe54"
 metafile = true
@@ -2879,6 +2874,10 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
+
+[[files]]
+file = "mods/create_submarine-3.4.4.jar"
+hash = "5f190e51f0c05c4b77eade488f514014cf5409a2f6792625772d9a6647604c51"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
