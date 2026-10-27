@@ -2357,8 +2357,8 @@ file = "mods/bloodbound-1.1.7.jar"
 hash = "64999bb2cd723db86eea1d9a69647ee6294175bcaa0b2ada010eab06489c1023"
 
 [[files]]
-file = "mods/bloodcontracts-neoforge-1.21.1-1.0.1.jar"
-hash = "7f25f141fe9f586ecdc2203fbde023e668591332ebffecde95e482608ce57b8b"
+file = "mods/bloodcontracts-neoforge-1.21.1-2.0.0.jar"
+hash = "71123612b6b907093030c7b62f811ba6f6c34c0d43422d47c51a79ffe76337c5"
 
 [[files]]
 file = "mods/blueprint.pw.toml"
